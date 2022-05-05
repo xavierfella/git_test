@@ -1,2 +1,3 @@
 # git_test
-learnig gow to us git
+learning how to us git 
+Hello Odin!
